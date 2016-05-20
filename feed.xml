@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Guia de Acessibilidade de Interfaces Web com foco em aspectos do Autismo</description>
+    <link>http://talitapagani.com/gaia/</link>
+    <atom:link href="http://talitapagani.com/gaia/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 May 2016 12:34:07 -0300</pubDate>
+    <lastBuildDate>Fri, 20 May 2016 12:34:07 -0300</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Recomendação 9</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ter dificuldade para prestar atenção ao conteúdo primário apresentado na tela devido à distração de conteúdo secundário, portanto, é preciso evitar inserir elementos animados, que piscam ou brilham, bem como sons de fundo, pois eles podem ser incômodos e prejudicar o foco da pessoa, especialmente crianças.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ter dificuldade para prestar atenção ao conteúdo primário apresentado na tela devido à distração de conteúdo secundário, como imagens de fundo, cenários com muitos detalhes, fundos texturizados ou elementos animados.&lt;/p&gt;...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g3-recomendacao-9/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g3-recomendacao-9/</guid>
+        
+        <category>distração</category>
+        
+        <category>foco</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        
+        <category>Engajamento</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 12</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;As interfaces devem permitir que a pessoa se sinta motivada a interagir com a aplicação ou colaborar com outras pessoas através da aplicação. Para isto, é necessário fornecer instruções claras que facilitem a visão geral do conteúdo e orientem na utilização dos recursos disponíveis.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ficar confusas com instruções que não são bem definidas e podem se sentir desestimuladas a interagir com a aplicação ou com outras pessoas através da aplicação. Para cada funcionalidade, devem ser fornecidas instruções claras e que...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g3-recomendacao-12/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g3-recomendacao-12/</guid>
+        
+        <category>instruções</category>
+        
+        <category>resolução de problemas</category>
+        
+        <category>memorização</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        
+        <category>Engajamento</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 11</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Os elementos apresentados na tela devem ser organizados de forma a minimizar o esforço cognitivo da pessoa, aproximando elementos que são similares e distanciando conteúdos que não são relacionados.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Mesmo em uma interface com poucos elementos, a leitura de conteúdo pode se tornar difícil caso as informações estejam muito próximas e não tenham uma separação clara entre grupos de informações. Portanto, é necessário utilizar “folgas” entre os elementos para distingui-los e, para conteúdos similares, aproximá-los de forma que possam mostrar que aquelas informações fazem...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g3-recomendacao-11/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g3-recomendacao-11/</guid>
+        
+        <category>layout</category>
+        
+        <category>foco</category>
+        
+        <category>memorização</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão visual</category>
+        
+        
+        <category>Engajamento</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 10</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Interfaces com muitos elementos podem ser complexas e causar estresse e frustração desnecessário à pessoa com TEA. É importante projetar interfaces de aplicações e páginas web que apresentem os elementos e funcionalidades necessários em cada tela ou página, para que a pessoa possa focar na tarefa atual.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ficar frustradas ou confusas com uma grande quantidade de informações apresentadas em uma mesma tela. Elas também podem não relembrar as instruções para realizar uma tarefa na aplicação ou página web quando estas...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g3-recomendacao-10/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g3-recomendacao-10/</guid>
+        
+        <category>layout</category>
+        
+        <category>minimalismo</category>
+        
+        <category>resolução de problemas</category>
+        
+        <category>memorização</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        
+        <category>Engajamento</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 8</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Caso a leitura de um texto seja uma atividade importante no site ou aplicação, é recomendável fornecer um modo de leitura que omita os demais elementos da tela e exiba somente o texto. A função de modo de leitura pode ser similar ao modo de impressão, que geralmente esconde os demais elementos e exibe o texto com cores mais sóbrias.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ter dificuldade em se concentrar por muito tempo em uma determinada atividade. A leitura de textos pode ser cansativa e...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g2-recomendacao-8/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g2-recomendacao-8/</guid>
+        
+        <category>texto</category>
+        
+        <category>modo de leitura</category>
+        
+        <category>modo de impressão</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        <category>lidar com mudanças</category>
+        
+        
+        <category>Customização</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 7</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;É importante que sites ou aplicação web utilizadas por pessoas com TEA sejam flexíveis em sua interação e funcionalidades, fornecendo escolhas para adaptar os recursos apresentados e o layout de acordo com as necessidades de cada usuário.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Prover escolhas nos métodos de utilização do site ou aplicação permite que pessoas com TEA estejam no controle e adequem as funcionalidades e a apresentação das informações do modo que seja mais confortável a elas.&lt;/p&gt; &lt;p&gt;Pais, educadores e terapeutas de pessoas com TEA também podem fazer uso...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g2-recomendacao-7/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g2-recomendacao-7/</guid>
+        
+        <category>layout</category>
+        
+        <category>interface flexível</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        <category>lidar com mudanças</category>
+        
+        
+        <category>Customização</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 6</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Para pessoas com TEA, é recomendável que as informações sejam apresentadas em múltiplos meios, como texto, áudio e imagens (ver categoria Representações Redundantes), mas a pessoa deve ter a possibilidade de escolher com quais representações ela deseja que a informação seja apresentada.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Algumas pessoas com TEA podem ser mais suscetíveis a sons, outras a imagens e há pessoas que podem precisar do texto ou de instruções narradas para compreender um determinado conteúdo. Dessa forma, prover representações redundantes para informações é necessário, mas deve-se permitir...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g2-recomendacao-6/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g2-recomendacao-6/</guid>
+        
+        <category>customização</category>
+        
+        <category>modo de leitura</category>
+        
+        <category>multimídia</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        <category>lidar com mudanças</category>
+        
+        <category>integração sensorial</category>
+        
+        
+        <category>Customização</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 5</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Apresente funções de customização do site ou aplicação para alteração de cores, tamanho de texto, fontes e sons do site. Isto permitirá que a pessoa possa ajustar a aparência da interface de forma mais adequada às preferências dela.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Muitas vezes não é possível identificar padrões entre estas preferências de pessoas com TEA, como cores, formas ou fontes, devido à miríade de características e habilidade que cada pessoa pode apresentar. Por exemplo, uma cor que pode ser altamente atrativa para uma pessoa, pode ser perturbadora...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g2-recomendacao-5/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g2-recomendacao-5/</guid>
+        
+        <category>customização</category>
+        
+        <category>controle do usuário</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        <category>lidar com mudanças</category>
+        
+        
+        <category>Customização</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 4</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ter dificuldade de lidar com metáforas, portanto, ícones, ações e padrões de interação devem ser reconhecíveis e compatíveis com o mundo real sempre que possível. Para sites e aplicações voltados a crianças, esta abordagem permite conhecer a aprender ações ou vocabulários que elas poderão utilizar na vida real.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ter dificuldade com representações metafóricas, de faz-de-conta ou que demandem imaginação para serem decifradas.&lt;/p&gt; &lt;p&gt;É preciso que ações, ícones e elementos da página ou aplicação sejam relacionados com...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g1-recomendacao-4/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g1-recomendacao-4/</guid>
+        
+        <category>mundo real</category>
+        
+        <category>metáforas</category>
+        
+        <category>skeumorfismo</category>
+        
+        <category>memorização</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        
+        <category>Vocabulário Visual e Textual</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 3</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Além de escrever textos com a linguagem adequada (ver recomendação 2), devem ter uma estrutura que permita a legibilidade. Uma boa forma de atender isso é utilizando elemento como subtítulos e listas, sendo necessário também se atentar à quantidade de caracteres por linha e espaçamento entre linhas.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Conforme mencionado na recomendação 2, parágrafos complexos podem ser distrativos e prejudicar a atenção ao conteúdo da página para pessoas com TEA.&lt;/p&gt; &lt;p&gt;Textos divididos entre pequenos parágrafos, listas e textos com subtítulos maximizam a legibilidade e ajudam...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g1-recomendacao-3/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g1-recomendacao-3/</guid>
+        
+        <category>texto</category>
+        
+        <category>concisão</category>
+        
+        <category>brevidade</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        
+        <category>Vocabulário Visual e Textual</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 2</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;Pessoas com TEA podem ter dificuldade para compreender textos longos, complexos e com linguagem conotativa. A compreensão do conteúdo deve ser facilitada através de linguagem visual e texto com linguagem simples e apropriada ao conteúdo.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Um dos aspectos de comportamento afetados em pessoas com TEA é a comunicação. Por isso, elas podem ter dificuldade em compreender textos com metáforas, coloquialismo e expressões não literais.&lt;/p&gt; &lt;p&gt;Parágrafos complexos podem também ser distrativos e prejudicar a atenção ao conteúdo da página.&lt;/p&gt; &lt;p&gt;Para crianças, o uso de linguagem...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g1-recomendacao-2/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g1-recomendacao-2/</guid>
+        
+        <category>texto</category>
+        
+        <category>metáforas</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        
+        <category>Vocabulário Visual e Textual</category>
+        
+      </item>
+    
+      <item>
+        <title>Recomendação 1</title>
+        <description>&lt;h2 id=&quot;descrio&quot;&gt;Descrição&lt;/h2&gt; &lt;p&gt;O conteúdo também deve ser compreendido sem imagens ou estilos e as cores devem ser utilizadas de forma adequada como um complemento para distinguir ou relacionar objetos.&lt;/p&gt; &lt;h2 id=&quot;por-que-fazer-e-por-que--importante-para-a-pessoa-com-tea&quot;&gt;Por que fazer e por que é importante para a pessoa com TEA?&lt;/h2&gt; &lt;p&gt;Elementos que usam somente cores, sem imagens ou texto para representação da informação, podem atrair a atenção da pessoa, principalmente crianças, sem que ela compreenda o que aquele elemento significa.&lt;/p&gt; &lt;p&gt;Além disso, o baixo contraste entre o fundo e o texto/objeto de primeiro plano dificulta a compreensão, a legibilidade e pode prejudicar a atenção da pessoa com...</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 -0300</pubDate>
+        <link>http://talitapagani.com/gaia/g1-recomendacao-1/</link>
+        <guid isPermaLink="true">http://talitapagani.com/gaia/g1-recomendacao-1/</guid>
+        
+        <category>cores</category>
+        
+        <category>contraste</category>
+        
+        <category>atenção</category>
+        
+        <category>leitura</category>
+        
+        <category>compreensão verbal</category>
+        
+        <category>compreensão linguistica</category>
+        
+        <category>compreensão visual</category>
+        
+        
+        <category>Vocabulário Visual e Textual</category>
+        
+      </item>
+    
+  </channel>
+</rss>
