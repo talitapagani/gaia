@@ -1,87 +1,99 @@
 [
   
     {
-      "title"    : "Recomendação 9",
-      "tags"     : "distração, foco, atenção, and leitura",
-      "url"      : "/gaia/g3-recomendacao-9/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 9",
+      "description" : "Evite utilizar elementos que distraem e interfiram no foco ou na atenção. Caso utilize, forneça opções para suprimir estes elementos na tela.",
+      "tags"        : "distração, foco, atenção, and leitura",
+      "url"         : "/gaia/g3-recomendacao-9/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 12",
-      "tags"     : "instruções, resolução de problemas, memorização, atenção, leitura, compreensão verbal, and compreensão linguistica",
-      "url"      : "/gaia/g3-recomendacao-12/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 12",
+      "description" : "Forneça instruções e orientações claras sobre as tarefas para facilitar a compreensão do conteúdo e de sua linguagem de forma a estimular, motivar e engajar o usuário na interação.",
+      "tags"        : "instruções, resolução de problemas, memorização, atenção, leitura, compreensão verbal, and compreensão linguistica",
+      "url"         : "/gaia/g3-recomendacao-12/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 11",
-      "tags"     : "layout, foco, memorização, atenção, leitura, and compreensão visual",
-      "url"      : "/gaia/g3-recomendacao-11/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 11",
+      "description" : "Utilize espaços em branco entre os elementos da página para separar conteúdos distintos ou focar a atenção em um conteúdo.",
+      "tags"        : "layout, foco, memorização, atenção, leitura, and compreensão visual",
+      "url"         : "/gaia/g3-recomendacao-11/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 10",
-      "tags"     : "layout, minimalismo, resolução de problemas, memorização, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
-      "url"      : "/gaia/g3-recomendacao-10/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 10",
+      "description" : "Projete interfaces simples, com poucos elementos e que contenha somente as funcionalidades e conteúdos necessários para a tarefa atual.",
+      "tags"        : "layout, minimalismo, resolução de problemas, memorização, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
+      "url"         : "/gaia/g3-recomendacao-10/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 8",
-      "tags"     : "texto, modo de leitura, modo de impressão, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, and lidar com mudanças",
-      "url"      : "/gaia/g2-recomendacao-8/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 8",
+      "description" : "Permitir que atividades que envolvam leitura e concentração possam ter um modo de leitura ou impressão.",
+      "tags"        : "texto, modo de leitura, modo de impressão, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, and lidar com mudanças",
+      "url"         : "/gaia/g2-recomendacao-8/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 7",
-      "tags"     : "layout, interface flexível, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, and lidar com mudanças",
-      "url"      : "/gaia/g2-recomendacao-7/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 7",
+      "description" : "Oferecer opções para customizar a quantidade e a disposição de elementos na tela e personalizar as funcionalidades.",
+      "tags"        : "layout, interface flexível, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, and lidar com mudanças",
+      "url"         : "/gaia/g2-recomendacao-7/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 6",
-      "tags"     : "customização, modo de leitura, multimídia, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, lidar com mudanças, and integração sensorial",
-      "url"      : "/gaia/g2-recomendacao-6/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 6",
+      "description" : "Oferecer opções para customizar a visualização de informação com imagens, som e texto de acordo com as preferências individuais da pessoa.",
+      "tags"        : "customização, modo de leitura, multimídia, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, lidar com mudanças, and integração sensorial",
+      "url"         : "/gaia/g2-recomendacao-6/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 5",
-      "tags"     : "customização, controle do usuário, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, and lidar com mudanças",
-      "url"      : "/gaia/g2-recomendacao-5/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 5",
+      "description" : "Permitir customizar cores, tamanho de texto e fontes utilizadas em elementos da página.",
+      "tags"        : "customização, controle do usuário, atenção, leitura, compreensão verbal, compreensão linguistica, compreensão visual, and lidar com mudanças",
+      "url"         : "/gaia/g2-recomendacao-5/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 4",
-      "tags"     : "mundo real, metáforas, skeumorfismo, memorização, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
-      "url"      : "/gaia/g1-recomendacao-4/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 4",
+      "description" : "Ícones, imagens e nomenclatura de ações e menus devem ser compatíveis com o mundo real, representar ações concretas e atividades de vida cotidiana para que possam ser mais facilmente reconhecidas.",
+      "tags"        : "mundo real, metáforas, skeumorfismo, memorização, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
+      "url"         : "/gaia/g1-recomendacao-4/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 3",
-      "tags"     : "texto, concisão, brevidade, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
-      "url"      : "/gaia/g1-recomendacao-3/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 3",
+      "description" : "Procure ser sucinto, não escreva parágrafos longos e utilize marcações que facilitam a leitura como listas e títulos para seções de conteúdo.",
+      "tags"        : "texto, concisão, brevidade, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
+      "url"         : "/gaia/g1-recomendacao-3/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 2",
-      "tags"     : "texto, metáforas, atenção, leitura, compreensão verbal, and compreensão linguistica",
-      "url"      : "/gaia/g1-recomendacao-2/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 2",
+      "description" : "Utilize uma linguagem visual e textual simples, evitando jargões, erros ortográficos, metáforas, abreviações e acrônimos, fazendo uso de termos, expressões, nomes e símbolos familiares ao contexto de seus usuários.",
+      "tags"        : "texto, metáforas, atenção, leitura, compreensão verbal, and compreensão linguistica",
+      "url"         : "/gaia/g1-recomendacao-2/",
+      "date"        : "19 May 2016"
     } ,
   
     {
-      "title"    : "Recomendação 1",
-      "tags"     : "cores, contraste, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
-      "url"      : "/gaia/g1-recomendacao-1/",
-      "date"     : "19 May 2016"
+      "title"       : "Recomendação 1",
+      "description" : "As cores não devem ser a única forma de transmitir um conteúdo e o contraste entre as cores de fundo e objetos de primeiro plano deve ser adequado para distinguir os itens e diferenciar conteúdos ou relacionar informações similares.",
+      "tags"        : "cores, contraste, atenção, leitura, compreensão verbal, compreensão linguistica, and compreensão visual",
+      "url"         : "/gaia/g1-recomendacao-1/",
+      "date"        : "19 May 2016"
     } 
   
 ]
